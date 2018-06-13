@@ -8,7 +8,7 @@ Run bsq.php
 php bsq.php filepath
 ```
 
-### Use bsq maps
+## Use bsq maps
 
 Test the algorithm with bsq map files provided in the *bsq_maps* folder 
 
