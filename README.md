@@ -1,9 +1,8 @@
 # bsq
 Find the largest subsquare
 
-## Running the tests
+## Execute PHP file
 
-Run bsq.php
 ```
 php bsq.php filepath
 ```
